@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/action_settings"
+            android:title="Настройки"
+            android:checkable="false"
+            />
+        <item
+            android:id="@+id/action_reference"
+            android:title="Справка"
+            android:checkable="false"
+            />
+        <item
+            android:id="@+id/action_exit"
+            android:title="Выход"
+            android:checkable="false"
+            />
+
+
+</menu>
